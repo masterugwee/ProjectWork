@@ -26,3 +26,7 @@ Cross-validation is especially useful if the dataset is small,such as in the tea
 ##### Results
 
 The team achieved an average of 70-75 percent precision using all these techniques.
+
+##### Authors
+
+Claudia Ehrentraut, Markus Ekholm, Hideyuki Tanushi, Jörg Tiedemann, Hercules Dalianis
