@@ -17,8 +17,7 @@ patient and before leaving their surrounding. Example, this is achieved using th
 have inexpensive sensors together with RFID tags and bluetooth Low Energy transceivers; their role is to provide input to the workflow engine. The workflow
 engine records received data into the persistent repository.
 
-###### Workflow
-[Click here to view the work flow](https://i.imgur.com/WzwiNdG.png)
+[Workflow](https://i.imgur.com/WzwiNdG.png)
 
 This paper is centered on technology driven preventive measures for a serious public health issue, namely hospital acquired infections. While most transmission routes are well understood and standard guidelines exist to curb them, available research
 shows that in practice, they are either not applied or not applied thoroughly. As such, the team propose an innovative technological solution for preventing HAI and outbreaks.
